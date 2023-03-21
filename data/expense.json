@@ -1,1 +1,44 @@
-[{"id":1,"name":"Kar98k","nominal":12500,"category":"SniperRiffle","date":"2023-02-28"},{"id":2,"name":"Groza","nominal":25000,"category":"AssaultRiffle","date":"2023-03-15"},{"id":3,"name":"AWM","nominal":32000,"category":"SniperRiffle","date":"2023-03-14"},{"id":4,"name":"UZI","nominal":21000,"category":"SubMachineGun","date":"2023-03-07"},{"id":5,"name":"AUG A3","nominal":17200,"category":"AssaultRiffle","date":"2023-02-11"},{"name":"Pan","nominal":1800,"category":"Melee","date":"2023-03-07","id":6}]
+[
+    {
+        "id": 1,
+        "name": "Kar98k",
+        "nominal": 12500,
+        "category": "SniperRiffle",
+        "date": "2023-02-28"
+    },
+    {
+        "id": 2,
+        "name": "Groza",
+        "nominal": 25000,
+        "category": "AssaultRiffle",
+        "date": "2023-03-15"
+    },
+    {
+        "id": 3,
+        "name": "AWM",
+        "nominal": 32000,
+        "category": "SniperRiffle",
+        "date": "2023-03-14"
+    },
+    {
+        "id": 4,
+        "name": "UZI",
+        "nominal": 21000,
+        "category": "SubMachineGun",
+        "date": "2023-03-07"
+    },
+    {
+        "id": 5,
+        "name": "AUG A3",
+        "nominal": 17200,
+        "category": "AssaultRiffle",
+        "date": "2023-02-11"
+    },
+    {
+        "name": "Pan",
+        "nominal": 1800,
+        "category": "Melee",
+        "date": "2023-03-07",
+        "id": 6
+    }
+]
